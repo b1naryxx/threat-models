@@ -5,8 +5,18 @@
     "description": ""
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "b1nary"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Dgram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "b1nary"
   }
 }
